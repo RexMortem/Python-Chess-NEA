@@ -4,7 +4,7 @@ Testing an update...
 
 # Reflection
 
-As a rushed pre-university project, it suffers from a few deficiencies but also shows a surprising amount of promise; it's easy to look back on old code and rip it apart for its poor performance and subpar style (readability and adaptability) however the code *works* and showcases 
+As a rushed pre-university project, it suffers from a few deficiencies but also shows a surprising amount of promise; it's easy to look back on old code and rip it apart for its poor performance and subpar style (readability and adaptability), however the code *works* and showcases 
 
 ## Criticisms 
 

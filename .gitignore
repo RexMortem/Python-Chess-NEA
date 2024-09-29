@@ -1,1 +1,5 @@
+# This is a comment for my first .gitignore file!
 __pycache__/**
+
+# Use git rm x --cached to remove a file x from caching 
+# Use git rm x --cached -r to remove a folder x from caching 
