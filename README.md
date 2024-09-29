@@ -2,6 +2,8 @@
 
 This Chess Project utilises Pygame (and timeit) to display a main menu & forms system, provide an interactable (and flexible) chess game, and the ability to choose from a selection of AI. 
 
+With this program, you can play against AI or play against yourself. 
+
 # How to run 
 
 1) Clone the repository (the URL to the repository may change):
@@ -18,6 +20,11 @@ git clone https://github.com/RexMortem/Python-Chess-NEA
 ```
 python main.py
 ```
+
+# Description 
+
+This project includes: 
+- 
 
 # Reflection
 
