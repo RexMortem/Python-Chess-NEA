@@ -1,6 +1,6 @@
 # Chess AI Project
 
-Testing an update...
+Basic chess AI (pending more detailed description)
 
 # Reflection
 
@@ -18,4 +18,4 @@ As a rushed pre-university project, it suffers from a few deficiencies:
 Despite its defects, this project represented a milestone in my programming journey; this was my first large solo project. 
 I'm also proud of it being functional despite its unnecessary complexity, and it has a decent amount of self-commenting (and commented) code. 
 
-ThisThis as also my first exploration of basic AI algorithms such as Min-Max and Alpha-Beta Pruning. 
+This was also my first exploration of basic AI algorithms such as Min-Max and Alpha-Beta Pruning. 
