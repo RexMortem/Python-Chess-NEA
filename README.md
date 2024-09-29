@@ -1,6 +1,23 @@
 # Chess AI Project
 
-Basic chess AI (pending more detailed description)
+This Chess Project utilises Pygame (and timeit) to display a main menu & forms system, provide an interactable (and flexible) chess game, and the ability to choose from a selection of AI. 
+
+# How to run 
+
+1) Clone the repository (the URL to the repository may change):
+```
+git clone https://github.com/RexMortem/Python-Chess-NEA 
+```
+
+2) Install Python (the version I use is Python 3.10.1, although a variety of versions will work)
+
+3) Install Pygame and timeit using pip (should be easy to find via google)
+
+4) Run the following command 
+
+```
+python main.py
+```
 
 # Reflection
 
